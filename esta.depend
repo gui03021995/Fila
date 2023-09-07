@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1638663884 source:c:\users\55379\desktop\esta\main.c
+	"FilaEstatica.h"
+	<stdio.h>
+	<stdlib.h>
+
+1638663737 c:\users\55379\desktop\esta\filaestatica.h
+
